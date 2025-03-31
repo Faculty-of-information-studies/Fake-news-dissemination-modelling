@@ -9,3 +9,11 @@ The viral spread of digital misinformation has become so severe that the World E
 
 # ARIS project site
 https://cris.cobiss.net/ecris/si/en/project/18758
+
+# Simulation model information
+text:
+
+# Social network data
+text:
+
+contact:
