@@ -21,5 +21,5 @@ contact:
 
 preprint of upcoming paper on "Social Media Bot Detection Research": Review of Literature: https://arxiv.org/abs/2503.22838
 
-additional file: [The list of references cited in the review of papers on Social Media Bot Detection Research](https://github.com/Faculty-of-information-studies/Fake-news-dissemination-modelling/commit/d18ecf0365e7d213bb4fbf30a84d038571ec7fe5#diff-0bb20ea0b3b5f93fa1f836c34e60e3e94c4e739865527ed74682136933118742) 
+additional file: [The list of references cited in the review of papers on Social Media Bot Detection Research](https://github.com/Faculty-of-information-studies/Fake-news-dissemination-modelling/blob/d18ecf0365e7d213bb4fbf30a84d038571ec7fe5/Rodic_2025_-_Social_Media_Bot_Detection_Research_Review_of_Literature%20-%20Add1.%20REFERENCES%20CITED.pdf)
 
