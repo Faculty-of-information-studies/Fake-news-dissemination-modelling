@@ -10,7 +10,7 @@ We thus intend to fill the gap by developing a new, original ABM model to develo
 https://cris.cobiss.net/ecris/si/en/project/18758
 
 # Simulation model information
-The purpose of the simulation model is to model the dissemination of messages in a model of a social network. The model allows the selection of several synthetic social network models and a model based on the graph of a large component isolated from the Twitter data. The model allows the simulation of cascades occuring in social networks, and comparison of cascade properties depending on the network type, degree of the initial node in the cascade, and rules affecting the probability of message transmission on the level of individual nodes.
+The purpose of the simulation model is to model the dissemination of messages in a model of a social network. The model allows the selection of several synthetic social network models and a model based on the graph of a large component isolated from the Twitter data. The model allows the simulation of cascades occuring in social networks, and comparison of cascade properties depending on the network type, degree of the initial node in the cascade, and rules affecting the probability of message transmission on the level of individual nodes. Authors are available for consultation and help regarding the use of the model.
 
 The model is built using Agent Based Modelling methodology in the Anylogic simulation modelling environment. [Free version of the Anylogic environment](https://www.anylogic.com/downloads/personal-learning-edition-download/) is available from the publisher.
 
