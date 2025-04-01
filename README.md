@@ -32,3 +32,4 @@ In the course of this research project we have collected approx. 100M Tweets pos
 - »Modelling of Fake News Dissemination Using Agent Based Modelling«, invited lecture at VESS: Virtual EUROSIM Simulation Seminar, information available at: https://www.eurosim2022.eu/vess/#pastVESS
 - »Social networks, cognitive biases and fake news : can a simple computer model explain a complex phenomenon?«, scientific conference paper
   - available in conference proceedings: https://www.itema-conference.com/wp-content/uploads/2021/04/ITEMA-2020_Conference-Proceedings_FINAL.pdf
+- [Complete bibliography of research papers reviewed in the research project, APA 7 format](https://github.com/Faculty-of-information-studies/Fake-news-dissemination-modelling/blob/main/Fake%20news%20dissemination%20research%20APA%20Bibliography%20Zotero%202025-03-21.rtf).
