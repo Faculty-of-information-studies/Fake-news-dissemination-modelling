@@ -21,7 +21,14 @@ In the course of this research project we have collected approx. 100M Tweets pos
 
 # Publications and additional documents
 
-preprint of upcoming paper on "Social Media Bot Detection Research": Review of Literature: https://arxiv.org/abs/2503.22838
+- Preprint of upcoming paper on "Social Media Bot Detection Research": Review of Literature: https://arxiv.org/abs/2503.22838
 
-additional file: [The list of references cited in the review of papers on Social Media Bot Detection Research](https://github.com/Faculty-of-information-studies/Fake-news-dissemination-modelling/blob/d18ecf0365e7d213bb4fbf30a84d038571ec7fe5/Rodic_2025_-_Social_Media_Bot_Detection_Research_Review_of_Literature%20-%20Add1.%20REFERENCES%20CITED.pdf)
-
+  - additional file: [The list of references cited in the review of papers on Social Media Bot Detection Research](https://github.com/Faculty-of-information-studies/Fake-news-dissemination-modelling/blob/d18ecf0365e7d213bb4fbf30a84d038571ec7fe5/Rodic_2025_-_Social_Media_Bot_Detection_Research_Review_of_Literature%20-%20Add1.%20REFERENCES%20CITED.pdf)
+ 
+- »The Role of social networks in the spread of fake news«, scientific conference paper
+  - paper available at: https://press.um.si/index.php/ump/catalog/view/860/1251/3946, available in proceedings: https://press.um.si/index.php/ump/catalog/book/860
+- »The false information epidemic in social media : overview of recent developments and research«, scientific conference paper
+  - available in proceedings: https://www.fuds.si/wp-content/uploads/2025/02/SSSC-2025-book-of-abstract_final.pdf
+- »Modelling of Fake News Dissemination Using Agent Based Modelling«, invited lecture at VESS: Virtual EUROSIM Simulation Seminar, information available at: https://www.eurosim2022.eu/vess/#pastVESS
+- »Social networks, cognitive biases and fake news : can a simple computer model explain a complex phenomenon?«, scientific conference paper
+  - available in conference proceedings: https://www.itema-conference.com/wp-content/uploads/2021/04/ITEMA-2020_Conference-Proceedings_FINAL.pdf
